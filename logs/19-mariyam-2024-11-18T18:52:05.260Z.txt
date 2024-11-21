@@ -1,0 +1,3 @@
+<---------Start from here-----------> 
+Concatenation complete. Converting to MP3... - [2024-11-18T18:52:10.410Z] 
+Successfully converted to MP3 and saved as /media/kayes/Kayes 2/PAIQ Audios/compressed-surah/19-mariyam.mp3 - [2024-11-18T18:52:36.996Z] 
